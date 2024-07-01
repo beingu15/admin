@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>708786857682-f0vkika82lrhe2l2dlrj7b28njm5k5p0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.708786857682-f0vkika82lrhe2l2dlrj7b28njm5k5p0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>708786857682-q6kudg1884la3a36qiq49kfr9nnl17qv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYWiUMfI5SFze6myZZTuiJUzxW8hBDxsA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>708786857682</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.BeKart</string>
+	<key>PROJECT_ID</key>
+	<string>bekart-11</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bekart-11.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:708786857682:ios:5fbb348553dd2f88a16f0b</string>
+	<key>DATABASE_URL</key>
+	<string>https://bekart-11-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

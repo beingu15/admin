@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "708786857682",
+    "firebase_url": "https://bekart-11-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bekart-11",
+    "storage_bucket": "bekart-11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708786857682:android:eccee400a7e0e1fba16f0b",
+        "android_client_info": {
+          "package_name": "com.beadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708786857682-a62vo1t1m48lnm782jrujqssvq9bhslu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZLM0Ak-G5m9bhCzVFVWEVb3VGMoy5tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708786857682-a62vo1t1m48lnm782jrujqssvq9bhslu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708786857682-f0vkika82lrhe2l2dlrj7b28njm5k5p0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.BeKart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708786857682:android:455fc9fb6f6d845da16f0b",
+        "android_client_info": {
+          "package_name": "com.bekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708786857682-q6kudg1884la3a36qiq49kfr9nnl17qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bekart",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "708786857682-a62vo1t1m48lnm782jrujqssvq9bhslu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZLM0Ak-G5m9bhCzVFVWEVb3VGMoy5tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708786857682-a62vo1t1m48lnm782jrujqssvq9bhslu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708786857682-f0vkika82lrhe2l2dlrj7b28njm5k5p0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.BeKart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
